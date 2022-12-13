@@ -1,5 +1,5 @@
 # Simple-Mail
-  This is a simple mailing system which provides a feature of sendind and receiving mails....
+  This is a simple mailing system which provides a feature of sending and receiving mails between users....
 
 LOGIN
 ![image](https://user-images.githubusercontent.com/107601707/207248456-e7e63acf-bf1c-41a3-89e7-f9cdd1bd4980.png)
