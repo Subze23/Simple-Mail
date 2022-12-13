@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Compose</title>
+    <link rel="stylesheet" href="CSS/style.css">
+  </head>
+  <body>
+    <div class="center">
+      <h1>New Message</h1>
+      <form method="post" action="compose">
+        <div class="txt_field">
+          <input type="text" name="to" required>
+          <span></span>
+          <label>To</label>
+        </div>
+        <div class="txt_field">
+          <input type="text" name="subject" required>
+          <span></span>
+          <label>Subject</label>
+        </div>
+        <div class="content">
+            <textarea cols="40" name="message"></textarea>
+        </div>
+        <input type="submit" value="compose">
+      </form>
+      
+    </div>
+
+  </body>
+</html>
